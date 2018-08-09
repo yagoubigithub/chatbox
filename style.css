@@ -1,0 +1,23 @@
+
+#chatlogs{
+    height: 600px;
+    box-sizing: border-box;
+    max-width: 400px;
+    overflow-y: auto;
+    
+}
+
+
+.message{
+    color:white;
+    background: royalblue;
+    border-radius: 5px;
+    padding: 5px;
+   max-width: 150px;
+   box-sizing: border-box;
+   
+}
+
+
+
+
